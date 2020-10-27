@@ -2,7 +2,7 @@ var helicopterIMG, helicopterSprite, packageSprite,packageIMG;
 var packageBody,ground
 const Engine = Matter.Engine;
 const World = Matter.World;
-const Bodies = Matter.Bodies;
+const Bodies = Matter.Bodies; 
 const Body = Matter.Body;
 
 function preload()
