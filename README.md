@@ -1,2 +1,2 @@
 # supply-mission
-Boiler plate for p5.play
+supply-mission for p5.play
